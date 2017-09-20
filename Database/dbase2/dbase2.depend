@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1446667744 source:i:\harvard\database\dbase2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1505218646 source:i:\harvard\database\dbase2\dbase.c
+	<stdio.h>
+
