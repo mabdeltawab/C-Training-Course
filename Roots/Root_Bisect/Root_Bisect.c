@@ -2,7 +2,7 @@
 // I'll try to use function pointer to
 //find a ROOT for continuous function
 // using bisection method in interval
-// a, b
+// a, b start and end
 
 long double  fun(double x);
 float bisect(double,double,long double(*Ptr)(double),float);
