@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1506521676 source:i:\harvard\recover\recover\recover.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
